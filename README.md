@@ -4,5 +4,5 @@ This is the archive for CSCI1933 in 2022 Spring semester, but I cannot post past
 
 A game screenshot of final match. 
 
-Team id is LLM, with Linglong Meng and Yuhan Zhou.
+Team id is LLM, member are Linglong Meng and Yuhan Zhou.
 ![final match screenshot](https://github.com/tardism/Space-Explorers-Tournament/blob/main/Final%20game%20match,%20record%20by%20prof.png?raw=true)
